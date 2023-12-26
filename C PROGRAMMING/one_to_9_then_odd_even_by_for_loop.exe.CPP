@@ -1,7 +1,7 @@
 /*
 
 In this challenge, you will use a for loop to increment a variable through a range.
-
+ 
 Input Format
 
 You will be given two positive integers,  and  (), separated by a newline.

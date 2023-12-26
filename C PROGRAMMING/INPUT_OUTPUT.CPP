@@ -2,6 +2,7 @@
 using namespace std;
 int main()
 { 
+    // here is the code 
     int x,y,z;
     cin>>x>>y>>z;
     int sum=x+y+z;

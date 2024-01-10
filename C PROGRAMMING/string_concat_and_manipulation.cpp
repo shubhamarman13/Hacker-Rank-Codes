@@ -38,8 +38,5 @@ int main() {
     first[0]=second[0];
     second[0]=temp[0];
     cout<<first<<" "<<second;
-    
-    
-  
     return 0;
 }

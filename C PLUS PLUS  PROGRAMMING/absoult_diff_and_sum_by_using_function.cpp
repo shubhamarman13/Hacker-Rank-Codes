@@ -14,7 +14,7 @@ Input will contain two integers,  and , separated by a newline.
 
 Sample Input
 
-4
+4    
 5
 Sample Output
 
